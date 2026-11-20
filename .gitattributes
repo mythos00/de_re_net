@@ -1,0 +1,7 @@
+feature_stack/
+*.tif
+*.tiff
+*.aux.xml
+__pycache__/
+.venv/
+venv/
